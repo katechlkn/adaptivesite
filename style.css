@@ -152,7 +152,7 @@ body {
 }
 
 .card__link:hover {
-    text-decoration: underline;
+    opacity: 0.5;
 }
 
 .card__link__all > a > img {
@@ -322,6 +322,10 @@ body {
     color: #FFFFFF;
 }
 
+.footer__list__link:hover {
+    opacity: 0.5;
+}
+
 .footer__copyright {
     padding-top: 64px;
 }
@@ -415,6 +419,11 @@ body {
     color: #1F3F68;
     list-style-type: none;
     display: flex;
+}
+
+
+.main__contacts__list__link:hover {
+    opacity: 0.5;
 }
 
 .main__contacts__list__type:last-child, .main__contacts__list__type__site:last-child {
