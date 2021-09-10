@@ -783,11 +783,13 @@ body {
         line-height: 28px;
         text-align: center;
         width: 288px;
+        margin: 0 auto;
     }
 
     .text__footer {
         text-align: center;
         width: 288px;
+        margin: 0 auto;
     }
 
     .footer__button {
